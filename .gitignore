@@ -3,3 +3,5 @@
 *.aux
 *.bak
 *.toc
+*.fdb_latexmk
+*.fls
